@@ -1,4 +1,8 @@
 # Udacity Full Stack Web Developer Nanodegree
+# Patrick Roche
+# http://plr108.github.io/
+# patrick.l.roche@gmail.com
+
 ## Bookmark Server exercise
 
 A bookmark server or URL-shortening service,
